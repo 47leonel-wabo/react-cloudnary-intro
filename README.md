@@ -1,4 +1,4 @@
-# React & Cloudnary
+# React & Cloudinary
 
 Getting some footprint with ![cloudinary](https://cloudinary.com/)
 
